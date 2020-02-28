@@ -3,3 +3,7 @@
 ## Questionnaire
 
 Survey questions: [link](./questions.md)
+
+## Gmail automation
+
+See [here](./gmail).
