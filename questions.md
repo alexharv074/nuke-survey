@@ -1,31 +1,33 @@
-Q1. What best describes your expertise
+# Questionnaire
 
-a. Climate science - physical sciences basis
-b. Climate science - impacts community
-c. Climate science - mitigation
-d. Other - we won't include this data point.
+1. What best describes your expertise
 
-Q2. What best describes your political alignment
+    1. Climate science - physical sciences basis
+    1. Climate science - impacts community
+    1. Climate science - mitigation
+    1. Other - we won't include this data point.
 
-a. Votes left-of-centre.
-b. Votes right-of-centre.
-c. No fixed alignment.
+1. What best describes your political alignment
 
-Q3. What best decribes your opinion on nuclear power
+    1. Votes left-of-centre.
+    1. Votes right-of-centre.
+    1. No fixed alignment.
 
-a. Supports building nuclear power plants
-b. Supports building next generation nuclear power plants only
-c. Supports saving existing nuclear power plants only
-d. Supports closing all nuclear power plants as soon as possible.
+1. What best decribes your opinion on nuclear power
 
-Q4. What best describes your view of the economics of nuclear power
+    1. Supports building nuclear power plants
+    1. Supports building next generation nuclear power plants only
+    1. Supports saving existing nuclear power plants only
+    1. Supports closing all nuclear power plants as soon as possible.
 
-a. It is too expensive and is likely to remain that way.
-b. Although it has high capital costs it delivers cheap electricity.
-c. It is too expensive now although it may be cheaper in the future.
+1. What best describes your view of the economics of nuclear power
 
-Q5. What best describes your view of the safety of nuclear power
+    1. It is too expensive and is likely to remain that way.
+    1. Although it has high capital costs it delivers cheap electricity.
+    1. It is too expensive now although it may be cheaper in the future.
 
-a. It is the safest form of power.
-b. There are risks from nuclear power that are offset by greater risks of climate change.
-b. Nuclear power presents a greater risk than climate change.
+1. What best describes your view of the safety of nuclear power
+
+    1. It is the safest form of power.
+    1. There are risks from nuclear power that are offset by greater risks of climate change.
+    1. Nuclear power presents a greater risk than climate change.
