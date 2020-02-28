@@ -8,7 +8,7 @@
     1. Female
     1. Prefer not to say, or other.
 
-1. What is your job title:
+1. What is your job title?
 
 1. What best describes your expertise
 
@@ -37,17 +37,7 @@
     1. Climate change is real although I am not sure to what extent it is natural and/or human-caused.
     1. I am skeptical about climate change.
 
-    For the last 3 questions, please use the following scale:
-
-    |response|meaning|
-    |--------|-------|
-    |1|strongly disagree|
-    |2|disagree|
-    |3|neither agree nor disagree or no opinion|
-    |4|agree|
-    |5|strongly agree|
-
-1. What do you think of the following statements about nuclear power:
+1. What best describes your opinion of nuclear power:
 
     1. I support building new nuclear power plants.
     1. I support building next generation nuclear power plants only.
@@ -55,15 +45,18 @@
     1. I support phasing out nuclear power plants when they reach the end of life.
     1. I support closing all nuclear power plants as fast as possible and replacing them with renewables.
     1. I support closing all nuclear power plants as fast as possible and replacing them with anything else.
+    1. I have no opinion on this.
 
-1. What do you think of the following statements about the economics of nuclear power:
+1. What best describes your opinion of the economics of nuclear power:
 
     1. I think nuclear power is too expensive and is likely to remain that way.
     1. Although nuclear power has high capital costs it actually delivers cheap electricity.
     1. I think nuclear power is too expensive now although it may become cheaper in the future.
+    1. I have no opinion on this.
 
-1. What do you think of the following statements about the safety of nuclear power:
+1. What best describes your opinion of the safety of nuclear power:
 
     1. I think nuclear power is a safe form of power.
     1. There are risks from nuclear power that are offset by greater risks of climate change.
     1. Nuclear power presents a greater risk than climate change.
+    1. I have no opinion on this.
