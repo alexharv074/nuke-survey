@@ -41,7 +41,7 @@
 
     1. I support building nuclear power plants now.
     1. I support building nuclear power plants in the future, if they become safer, cheaper, etc.
-    1. I don't support building new nuclear power plants, but I support running exists plants for their designed operating lifetime.
+    1. I don't support building new nuclear power plants, but I support running exists plants for their full operating lifetime.
     1. I support closing or phasing out all nuclear power plants.
     1. I am undecided on this.
 
