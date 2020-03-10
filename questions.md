@@ -44,17 +44,3 @@
     1. I don't support building new nuclear power plants, but I support running existing plants for their full operating lifetime.
     1. I support closing or phasing out all nuclear power plants.
     1. I am undecided on this.
-
-1. What best describes your view of the economics of nuclear power:
-
-    1. Nuclear power is too expensive and is likely to remain that way.
-    1. Although nuclear power has high capital costs, it delivers cheap electricity.
-    1. Nuclear power is expensive now, although it may become cheaper in the future.
-    1. I am undecided on this.
-
-1. What best describes your view of the safety of nuclear power:
-
-    1. I think nuclear power is a safe form of power.
-    1. There are risks from nuclear power that are offset by greater risks of climate change.
-    1. Nuclear power presents a greater risk than climate change.
-    1. I am undecided on this.
